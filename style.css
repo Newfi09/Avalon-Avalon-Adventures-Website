@@ -2,11 +2,14 @@ body {
     background-color: powderblue;
   }
   h1 {
+    text-align: center;
     color: black;
     font-family: Brush Script MT, cursive;
     font-size: 360%
-  }
+    }
+
   h2 {
+    text-align: center;
     color: rgb(114, 88, 16);
     font-family:fantasy
   }
