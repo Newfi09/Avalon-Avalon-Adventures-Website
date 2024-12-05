@@ -1,13 +1,15 @@
-body 
 body {
-  background-image: url(C:\Users\logan\Website project\pictures for project\homepage-02.jpg-02.jpg); /* Path to your image */
-  background-size: cover; /* Ensures the image covers the entire background */
-  background-repeat: no-repeat; /* Prevents the image from repeating */
-  background-attachment: fixed; /* Fixes the background image in place */
-  background-position: center; /* Centers the background image */
+  background-image: url('C:\Users\logan\Website\ project\pictures\ for\ project\homepage-02.jpg'); /* Replace with your image's name and extension */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 
-  h1 {
+  
+
+
+h1 {
     text-align: center;
     color: black;
     font-family: Brush Script MT, cursive;
