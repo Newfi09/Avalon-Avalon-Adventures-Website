@@ -1,11 +1,10 @@
-body {
-  background-image: url('C:\Users\logan\Website\ project\pictures\ for\ project\homepage-02.jpg'); /* Replace with your image's name and extension */
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+body { 
+  background-image: url("C:\Users\logan\Website-project\pictures\homepage-02.jpg"); /* Replace with your image's name and extension */ 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
   background-position: center;
 }
-
   
 
 
