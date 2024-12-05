@@ -1,6 +1,12 @@
+body 
 body {
-    background-color: powderblue;
-  }
+  background-image: url(C:\Users\logan\Website project\pictures for project\homepage-02.jpg-02.jpg); /* Path to your image */
+  background-size: cover; /* Ensures the image covers the entire background */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-attachment: fixed; /* Fixes the background image in place */
+  background-position: center; /* Centers the background image */
+}
+
   h1 {
     text-align: center;
     color: black;
